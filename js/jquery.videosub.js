@@ -22,8 +22,6 @@
         'position': 'absolute',
         'text-align': 'center',
         'color': 'white',
-	'display': 'inline-block',
-	'background': 'rgba(0, 0, 0, 0.7)',
         'font-family': 'Helvetica, Arial, sans-serif',
         'font-size': '24px',
         'font-weight': 'normal',
