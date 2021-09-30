@@ -173,8 +173,8 @@
 
     subtitle_positioning = function (bar) {
         var $player = $('#player');
-        /*bar.css('width', $player.css('width'));*/
-        /*bar.css('left', $player.offset().left);*/
+        bar.css('width', $player.css('width') / 3);
+        bar.css('left', $player.offset().left);
         bar.css('top', (parseInt($player.offset().top) + $player.outerHeight() - 95) + 'px');
     };
 })(jQuery);
