@@ -21,7 +21,7 @@
     var bar_css_normal = {
         'position': 'absolute',
         'text-align': 'center',
-        'color': 'white',
+        'color': 'green',
         'font-family': 'Helvetica, Arial, sans-serif',
         'font-size': '24px',
         'font-weight': 'normal',
